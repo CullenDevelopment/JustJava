@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order">orden</string>
+    <string name="quantity">CANTIDAD</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="addName">Agregar Nombre</string>
+    <string name="thank_you">Gracias</string>
+    <string name="Quantity">Cantidad</string>
+    <string name="Chocolate">Agrega Chocolate</string>
+    <string name="add_cream">Agregar Crema Batida</string>
+    <string name="summary_order_name">Nombre</string>
+    <string name="orderSummary">Resumen del pediclo</string>
+    <string name="Java_order">Solo orden de Java para:</string>
+</resources>
